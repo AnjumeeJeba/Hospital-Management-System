@@ -50,12 +50,12 @@ java MedicalProject
 3. Doctor's Patient List:
   - Doctors can log in to see their daily appointments and patient details.
 
-##Possible Future Enhancements
+## Possible Future Enhancements
   - Add a database for data persistence (e.g., SQLite or MySQL).
   - Introduce more advanced features like managing patient history or doctor shifts.
   - Improve user interaction with a graphical interface (GUI) using JavaFX or Swing.
     
-##Technologies Used
+## Technologies Used
   - Java
   - Arrays and Lists for Data Management
   - Console-based UI
